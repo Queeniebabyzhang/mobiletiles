@@ -1,0 +1,134 @@
+body{
+	background-color:#336666;
+ } 
+#logodiv{
+	border:1px solid white;
+	width:15vw;
+	height:28vh;
+	margin-left:30vw;
+	background:url("../../images/logo/logo.gif") no-repeat center;
+	background-size:cover;
+	display:inline-block;
+}
+#setimg{
+	background:url("../../images/icons/gear.png") no-repeat center;
+	width:5vw;
+	height:5vw;
+	float:right;
+	margin-right:30vw;
+	margin-top:3vh; 
+}
+#picsDiv{
+	width:41vw;
+	margin-left:30vw;
+}
+.imgDiv{
+	float:left;
+	width:9.9vw;
+	height:20vh;
+	border:1px solid white;
+}
+#setimg:hover{
+	background:url("../../images/icons/gear_h.png") no-repeat center;
+	width:5vw;
+	height:5vw;
+	margin-right:30vw;
+	margin-top:3vh; 
+}
+#footdiv{
+	background:url("../../images/ads/ads.jpg");
+	background-size:cover;
+	width:40vw;
+	height:8vh;
+	clear:left;
+}
+#secondDiv{
+	width:40vw;
+	background-color:white;
+	margin-left:30vw;
+	transition:ease-in 0.5s;
+	display:none;
+	float:left;
+}
+#headDiv{
+	width:40vw;
+	float:left;
+}
+#personalizeLabel{
+	padding-left:40px;
+	margin-top:25px;
+	float:left;
+	display:inline-block;
+	font-size:40px;
+}
+#doneButton{
+	width:60px;
+	height:40px;
+	border-radius:5px;
+	color:white;
+	background-color:#66B3FF;
+	font-size:20px;
+	text-align:center;
+	float:right;
+	margin-right:50px;
+	margin-top:30px;
+}
+.wordStyle{
+	font-size:23px;
+	text-align:center;
+}
+#paragraph1{
+	float:left;
+}
+#stackimg1{
+	width:30px;
+	height:30px;
+	margin:5px;
+	vertical-align:text-top;
+}
+#tipDiv{
+	float:left;
+	width:40vw;
+}
+#newsListDiv{
+	width:36vw;
+	margin-left:2vw;
+	float:left;	
+}
+.checkimg{
+	width:30px;
+	height:30px;
+	float:left;
+	background:url("../../images/icons/check.png");
+}
+.stackimg2{
+	width:30px;
+	height:30px;
+	float:right;
+	background:url("../../images/icons/stack.png");
+}
+.newsparagraph{
+	font-size:23px;
+	display:inline;
+	margin-left:5px;
+}
+#secondFootDiv{
+	background-color:black;
+	width:40vw;
+	height:8vh;
+	float:left;
+}
+.footButton{
+	float:left;
+	height:36px;
+	border-radius:10px;
+	color:white;
+	background-color:#66B3FF;
+	font-size:20px;
+	text-align:center;
+	margin-top:2vh;
+	margin-right:0.5vw;
+}
+#firstButton{
+	margin-left:7vw;
+}
